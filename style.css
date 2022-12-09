@@ -3,8 +3,13 @@ body {
 }
 
 #banner {
+<<<<<<< HEAD
+	width:80%;
+	padding: 130px;
+=======
 	width:85%;
 	padding: 150px;
+>>>>>>> 7cebb92f8d531973ba9e046a0099c41b350b773f
 }
 
 .principal{
